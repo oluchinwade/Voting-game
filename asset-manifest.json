@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Voting-game/static/css/main.05c3b073.css",
+    "main.js": "/Voting-game/static/js/main.bf0d4d34.js",
+    "static/js/27.4c89b8ed.chunk.js": "/Voting-game/static/js/27.4c89b8ed.chunk.js",
+    "index.html": "/Voting-game/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.05c3b073.css",
+    "static/js/main.bf0d4d34.js"
+  ]
+}
